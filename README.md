@@ -1,2 +1,2 @@
-# MaxDifference
+# Max Difference
 Hacker Rank - MaxDifference.
